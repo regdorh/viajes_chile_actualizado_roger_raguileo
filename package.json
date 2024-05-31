@@ -1,0 +1,17 @@
+{
+  "name": "viajes_chile_actualizado_roger_raguileo",
+  "version": "1.0.0",
+  "description": "Documentación del proyecto:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass ./assets/sass/main.scss ./assets/css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "node-sass": "^9.0.0"
+  }
+}

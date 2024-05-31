@@ -1,0 +1,25 @@
+.testimony{
+    text-align: center;
+    color: white;
+
+    .testimony__text{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: italic;
+        font-size: smaller;
+
+    }
+    .testimony__image{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        margin-bottom: 10px;
+        border: solid 1px white;
+
+    }
+    .testimony__author{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-size: small;
+    }
+}

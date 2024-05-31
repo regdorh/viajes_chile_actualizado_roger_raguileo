@@ -1,0 +1,21 @@
+$success: #BDDFC7;
+
+$theme-colors: (
+    "success": $success
+);
+
+$mediumgray: #989797;
+
+@import './base/resets';
+@import './base/typography';
+@import './layout/section';
+@import './layout/article';
+@import './layout/main';
+@import './components/cards';
+@import './components/form';
+@import './components/testimony';
+@import './components/socialmedia';
+@import './components/modal';
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
